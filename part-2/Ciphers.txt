@@ -18,4 +18,3 @@ M ↔ Z
 
 “I love cryptography!”
 “Vybirpelcgbtencul!”
-
