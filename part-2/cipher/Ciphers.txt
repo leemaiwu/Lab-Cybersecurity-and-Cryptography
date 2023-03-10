@@ -1,0 +1,21 @@
+﻿This cipher splits the alphabet in half and creates two sets of letters. A letter in the first set corresponds to a letter in the second, and vice versa.  Given an “N” the cipher would translate it to “A” and if given an “A” it would translate to “N”
+
+Key: 
+
+A ↔ N
+B ↔ O
+C ↔ P
+D ↔ Q
+E ↔ R
+F ↔ S
+G ↔ T
+H ↔ U
+I ↔ V
+J ↔ W
+K ↔ X
+L ↔ Y
+M ↔ Z
+
+“I love cryptography!”
+“Vybirpelcgbtencul!”
+

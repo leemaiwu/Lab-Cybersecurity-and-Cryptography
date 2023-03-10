@@ -1,0 +1,8 @@
+﻿1. Research major cybersecurity breaches over the past 20 years and pick one to write a short essay on.
+2. Give an overview of what the breach was and the motivations behind it.
+3. Explain where the “tech flaws” were, and how hackers were able to breach their system.
+4. What has the company done to protect against that vulnerability since?
+
+
+
+In 2021 Just days after a major Facebook data leak, LinkedIn gets hacked. An archive containing data purportedly scraped from 500 million LinkedIn profiles had been put for sale. There were a total of four leaked files that included information like full names, email addresses, phone numbers, workplace information, and more. The hacker put the information up for sale on a forum asking for a 4 digit minimum in price. LinkedIn has implemented some additional steps to prevent future breaches such as Regular audits, Endpoint protection, and more.
